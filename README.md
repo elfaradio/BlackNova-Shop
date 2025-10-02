@@ -8,9 +8,9 @@
 👉 [View Live](https://elfaradio.github.io/BlackNova-Shop/)
 
 ## 📸 Preview
-![Project Preview](Preview/1.png)
-![Project Preview](Preview/2.png)
-![Project Preview](Preview/3.png)
+![Project Preview](preview/1.png)
+![Project Preview](preview/2.png)
+![Project Preview](preview/3.png)
 
 
 
