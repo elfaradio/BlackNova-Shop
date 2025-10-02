@@ -21,6 +21,5 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/blacknova-shop.git
-cd blacknova-shop
-```
+git clone https://github.com/elfaradio/BlackNova-Shop.git
+cd BlackNova-Shop
